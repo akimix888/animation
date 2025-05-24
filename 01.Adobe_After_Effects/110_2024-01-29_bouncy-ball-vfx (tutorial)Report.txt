@@ -1,0 +1,232 @@
+Report created: 
+	2/15/2024	11:09:31 AM
+
+Project name: 110_2024-01-29_bouncy-ball-vfx (tutorial).aep
+
+Source files collected to: 
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\4-Documents\110_2024-01-29_bouncy-ball-vfx (tutorial) folder
+
+Source files collected: All
+
+Collected comps:  
+	Animaciones de Elementos
+	Elements - Electricity 033 Ray Right noCT noRSZ
+	Elements - Flash 001 Hit Explosion Radial noCT noRSZ
+	Animación Roca
+	Elements - Smoke 002 Hit Explosion Radial noCT noRSZ
+	Animación Electricidad
+	Elements - Smoke 029 Hit Explosion Up noCT noRSZ
+	Animación Fuego
+	Animación Agua
+	Elements - Sparks 006 Shot Hit Up noCT noRSZ
+	Animación Base
+	Elements - Sparks 070 Shot Ray Hit Explosion Up noCT noRSZ
+	Animación Agua Sumergida
+	Elements - Sparks 071 Hit Explosion Radial noCT noRSZ
+	Elements - Liquid 001 Splash Up noCT noRSZ
+	Elements - Liquid 002 Splash Right noCT noRSZ
+	Elements - Liquid 003 Slash Right noCT noRSZ
+	Elements - Liquid 004 Splash Up noCT noRSZ
+	Elements - Liquid 005 Splash Up noCT noRSZ
+	Elements - Liquid 006 Hit Ray Up noCT noRSZ
+	Elements - Liquid 007 Splash Right noCT noRSZ
+	Elements - Liquid 008 Splash Up noCT noRSZ
+	Elements - Liquid 009 Splash Right noCT noRSZ
+	Elements - Liquid 010 Splash Up noCT noRSZ
+	Elements - Liquid 011 Splash Up noCT noRSZ
+	Elements - Liquid 012 Shot Splash Up noCT noRSZ
+	Elements - Liquid 013 Splash Up noCT noRSZ
+	Elements - Liquid 014 Splash Right noCT noRSZ
+	Elements - Liquid 015 Slash Right noCT noRSZ
+	Elements - Liquid 016 Splash Hit Ray Up noCT noRSZ
+	Elements - Liquid 017 Shot Up noCT noRSZ
+	Elements - Liquid 018 Splash Explosion Down noCT noRSZ
+	Elements - Liquid 020 Splash Right noCT noRSZ
+	Elements - Liquid 021 Splash Right noCT noRSZ
+	Elements - Liquid 022 Shot Bubbles Up noCT noRSZ
+	Elements - Liquid 023 Splash Trail Right Loop noCT noRSZ
+	Elements - Liquid 024 Splash Slash Right noCT noRSZ
+	Elements - Liquid 025 Splash Shot Hit Up noCT noRSZ
+	Elements - Liquid 026 Slash Up noCT noRSZ
+	Elements - Liquid 027 Down noCT noRSZ
+	Elements - Liquid 028 Splash Up noCT noRSZ
+	Elements - Liquid 029 Splash Hit Explosion Radial noCT noRSZ
+	Elements - Liquid 031 Ripple Ray Up noCT noRSZ
+	Elements - Liquid 032 Down noCT noRSZ
+	Elements - Liquid 033 Hit Radial noCT noRSZ
+	Elements - Liquid 034 Hit Splash Explosion Radial noCT noRSZ
+	Elements - Liquid 035 Ripple Up noCT noRSZ
+	Elements - Liquid 036 Splash Explosion Down noCT noRSZ
+	Elements - Liquid 037 Bubbles Up noCT noRSZ
+	Elements - Liquid 038 Slash Up noCT noRSZ
+	Elements - Liquid 039 Splash Hit Explosion Right noCT noRSZ
+	Elements - Liquid 040 Splash Up noCT noRSZ
+	Elements - Liquid 042 Hit Splash Explosion Up noCT noRSZ
+	Elements - Liquid 047 Shot Hit Splash Right MIX noCT noRSZ
+	Elements - Liquid 048 Splash Hit Explosion Up MIX noCT noRSZ
+	Elements - Liquid 049 Splash Slash Right MIX noCT noRSZ
+	Elements - Liquid 050 Explosion Radial MIX noCT noRSZ
+	Elements - Liquid 055 Splash Up MIX noCT noRSZ
+	Elements - Liquid 056 Splash Up noCT noRSZ
+	Elements - Liquid 057 Splash Up noCT noRSZ
+	Elements - Liquid 058 Splash Right noCT noRSZ
+	Elements - Liquid 059 Ray Right loop noCT noRSZ
+	Elements - Liquid 060 Splash Shot Up noCT noRSZ
+	Elements - Liquid 062 Splash Radial noCT noRSZ
+	Elements - Liquid 063 Splash Right noCT noRSZ
+	Elements - Liquid 064 Splash Right noCT noRSZ
+	Elements - Liquid 065 Splash Right noCT noRSZ
+	Elements - Liquid 066 Splash Right noCT noRSZ
+	Elements - Liquid 067 Splash Right noCT noRSZ
+	Elements - Liquid 068 Splash Hit Radial noCT noRSZ
+	Elements - Liquid 069 Splash Right noCT noRSZ
+	Elements - Liquid 070 Slash Radial MIX noCT noRSZ
+	Elements - Liquid 070 Splash Radial noCT noRSZ
+	Elements - Liquid 071 Slash Charge Radial MIX noCT noRSZ
+	Elements - Liquid 071 Splash Radial noCT noRSZ
+	Elements - Liquid 072 Charge Radial Loop MIX noCT noRSZ
+	Elements - Liquid 072 Splash Up noCT noRSZ
+	Elements - Liquid 085 Simple Vertical noCT noRSZ
+	Elements - Liquid 087 Down noCT noRSZ
+	Elements - Liquid 088 Down Loop noCT noRSZ
+	Elements - Liquid 089 Crying Loop Down noRSZ
+	Liquid 001 asset*
+	Liquid 002 asset*
+	Liquid 003 asset*
+	Liquid 004 asset*
+	Liquid 005 asset*
+	Liquid 006 asset*
+	Liquid 007 asset*
+	Liquid 008 asset*
+	Liquid 009 asset*
+	Liquid 010 asset*
+	Liquid 011 asset*
+	Liquid 012 asset*
+	Liquid 013 asset*
+	Liquid 014 asset*
+	Liquid 015 asset*
+	Liquid 016 asset*
+	Liquid 017 asset*
+	Liquid 018 asset*
+	Liquid 020 asset*
+	Liquid 021 asset*
+	Liquid 022 asset*
+	Liquid 023 asset*
+	Liquid 024 asset*
+	Liquid 025 asset*
+	Liquid 026 asset*
+	Liquid 027 asset*
+	Liquid 028 asset*
+	Liquid 029 asset*
+	Liquid 031 asset*
+	Liquid 032 asset*
+	Liquid 033 asset*
+	Liquid 034 asset*
+	Liquid 035 asset*
+	Liquid 036 asset*
+	Liquid 037 asset*
+	Liquid 038 asset*
+	Liquid 039 asset*
+	Liquid 040 asset*
+	Liquid 042 asset*
+	Liquid 063 asset*
+	Liquid 064 asset*
+	Liquid 065 asset*
+	Liquid 066 asset*
+	Liquid 067 asset*
+	Liquid 068 asset*
+	Liquid 069 asset*
+	Liquid 070 asset*
+	Liquid 071 asset*
+	Liquid 072 asset*
+	Liquid 085 asset*
+	Liquid 087_1 asset*
+	Liquid 087_2 asset*
+	Liquid 087_3 asset*
+	Smoke 002 asset*
+	Smoke 024 asset*
+	Smoke 029 asset*
+	Sparks 070 asset*
+	Sparks 071 asset*
+	Smoke 024 Shot Hit Explosion Up
+	Elements - Liquid 036 Splash Explosion Down noCT noRSZ 01
+	Elements - Liquid 042 Hit Splash Explosion Up noCT noRSZ 01
+	Fractal Comp 1
+	Animaciones de Elementos v.2
+	
+Number of collected files:  26
+
+Size of collected files:  468 KB
+
+Collected source files: 
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0000_rock_ball_color_1.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0001_rock_ball_color_2.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0002_rock_ball_rough.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0003_rocks_flying_color_2.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0004_rocks_flying_color_1.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0005_rock_floor_rough_copy.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0006_Layer_2.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0007_rock_floor_rough.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0008_Base_copy.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0009_Electric_1.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0010_Base_copy.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0011_Fire_highlights_.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0012_Fireball_1.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0013_Fireball_2.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0014_Fireball_base.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0015_water_ball_reflejo_2.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0016_water_ball_reflejo_1.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0017_water_ball_reflejo.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0018_water_ball_1.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0019_water_ball_1_copy.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0020_Base.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\1-Project\4-Animate\110_2024-01-29_bouncy-ball-vfx\0021_Timing.swf
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\2-Media\3-Image\Paleta_Agua.png
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\2-Media\3-Image\Paleta_Electricidad.png
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\2-Media\3-Image\Paleta_Fuego.png
+	D:\1.KONCEPTO_MOGRAPH\1.CLIENTS\1-PLATFORMS\1.YOUTUBE\110_2024-01-29_bouncy-ball-vfx\2-Media\3-Image\Paleta_Roca.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  19
+
+Effect:  CC Radial Blur
+	
+Effect:  Color Balance (HLS)
+	
+Effect:  Color Control
+	
+Effect:  Curves
+	
+Effect:  Displacement Map
+	
+Effect:  Fast Blur (Legacy)
+	
+Effect:  Fast Box Blur
+	
+Effect:  Fill
+	
+Effect:  Fractal Noise
+	
+Effect:  Gaussian Blur
+	
+Effect:  Gaussian Blur (Legacy)
+	
+Effect:  Glow
+	
+Effect:  Gradient Ramp
+	
+Effect:  Mesh Warp
+	
+Effect:  Posterize Time
+	
+Effect:  Sharpen
+	
+Effect:  Simple Choker
+	
+Effect:  Slider Control
+	
+Effect:  Tint
+	
+
